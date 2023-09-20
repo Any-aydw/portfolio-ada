@@ -60,10 +60,10 @@ body{
     width: 24px;
     height: 24px;
     position: absolute;
-    top: 10px;
+    top: 17px;
     right: 12px;
 }
-.icons .fa-solid{
+.fa-solid{
     pointer-events: none;
     font-size: 24px;
 }
